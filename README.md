@@ -1,2 +1,2 @@
 # faceswap
-faceswap: generate Avatar face swap model
+faceswap: Avatar face swap model
